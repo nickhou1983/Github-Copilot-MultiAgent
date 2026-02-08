@@ -1,0 +1,5 @@
+.env
+.github/skills/**/.env
+output/
+*.png
+*.jpg
