@@ -8,7 +8,7 @@ handoffs:
   - label: 交给诗歌编辑润色
     agent: poetry-editor
     prompt: 请审阅并润色以上诗歌作品，检查格律、韵脚和用词，输出编辑报告和最终定稿。
-    send: false
+    send: true
 ---
 
 # 诗人Agent (Poet Agent)
