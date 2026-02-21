@@ -3,6 +3,7 @@ name: poetry-editor
 description: '诗歌编辑Agent - 接收诗人Agent的作品，进行专业审阅、润色和最终定稿'
 argument-hint: '粘贴或描述需要审阅润色的诗歌作品'
 tools: ['search', 'fetch']
+model:  Claude Opus 4.6 (copilot)
 ---
 
 # 诗歌编辑Agent (Poetry Editor Agent)
